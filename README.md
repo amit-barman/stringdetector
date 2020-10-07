@@ -1,4 +1,4 @@
-<h1>String Detector</h1>
+<center><h1>String Detector</h1></center>
 
 # what is stringdetecor ?
 
