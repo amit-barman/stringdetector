@@ -1,6 +1,6 @@
 <h1>String Detector</h1>
 
-![python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue)
+![python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue) ![pip](https://img.shields.io/badge/pypi-v1.0.0-blue)
 
 # what is stringdetecor ?
 
