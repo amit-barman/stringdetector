@@ -10,7 +10,7 @@ or not
 
 # requirement
 
-python 3 or above
+python 3.5 or above
 
 # installation
 
