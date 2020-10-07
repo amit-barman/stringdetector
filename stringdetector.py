@@ -11,7 +11,7 @@ import os
 val = input("Enter your value: ")
 print("\n")
 
-def isbinod(filename) :
+def isval(filename) :
     with open(filename, "r") as f :
         fileContent = f.read()
 
@@ -26,11 +26,11 @@ if __name__ == "__main__" :
     dir_contents = os.listdir()
 
 nval = 0
-# for each text file run isbinod for them
+# for each text file run isval for them
 for item in dir_contents :
     if item.endswith("txt") :
         print(f"Detecting {val} in {item}")
-        flag = isbinod(item)
+        flag = isval(item)
         if (flag) :
             print(f"++++ {val} find in {item} ++++")
             nval += 1
