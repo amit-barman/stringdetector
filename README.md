@@ -4,9 +4,9 @@
 
 # what is stringdetecor ?
 
-string detector is a simple script written in python
-for check if entered string present on a text file
-or not
+string detector is a simple script written in python.
+This script helps us to check whether the given string
+is in the text file.
 
 # requirement
 
